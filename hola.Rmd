@@ -2,7 +2,7 @@
 title: "holaMundo"
 author: "Marcos Prunello"
 date: "September 21, 2018"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
